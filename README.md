@@ -67,7 +67,7 @@ This is a team graduation project at Princess Sumaya University for Technology (
 
 **Team Members**
 - **Mariam Raed Yaqoub**
-  - Data preprocessing (cleaning, standardization, integration, analysis-ready dataset)
+  - Data preprocessing (cleaning, standardization)
   - Led **Logistic Regression (LR)** and **SVM** modeling
   - Model evaluation + reporting (results interpretation and documentation)
 
@@ -78,7 +78,7 @@ This is a team graduation project at Princess Sumaya University for Technology (
 
 - **Seddiq Al-Khazraji**
   - System design + overall pipeline structure
-  - Dataset preparation, experiments, and integration tasks
+  - Dataset preparation, experiments, integration, and analysis-ready dataset tasks
   - Documentation/presentation support + end-to-end alignment
 
 > All members collaborated across planning, implementation, testing, reporting, and presentation.  
