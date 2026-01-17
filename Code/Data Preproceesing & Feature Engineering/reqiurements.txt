@@ -1,0 +1,24 @@
+# Core data + ML
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+xgboost>=2.0
+scipy>=1.10
+
+# Visualization (radar charts, heatmaps, plots)
+matplotlib>=3.7
+seaborn>=0.13
+plotly>=5.18
+
+# App / UI
+streamlit>=1.30
+
+# Database (PostgreSQL)
+psycopg2-binary>=2.9
+SQLAlchemy>=2.0
+
+# Utilities (commonly used in ETL / notebooks)
+tqdm>=4.66
+python-dotenv>=1.0
+rapidfuzz>=3.5
+joblib>=1.3
